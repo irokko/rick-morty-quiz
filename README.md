@@ -6,6 +6,11 @@ This quiz challenges Rick and Morty fans to test their knowledge about the carto
 When you click on an answer it starts filling the percentage bar of the quiz.
 Once the quiz is finished and hit submit it will show your quiz score. 
 
+DEMO
+
+https://rick-morty-rokkochan.c9users.io/
+
+
 INSTALLING
 
 Windows:
